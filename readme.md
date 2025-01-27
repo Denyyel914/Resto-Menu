@@ -1,5 +1,3 @@
-# Api-optional-integration Branch
-
 # Functionalities
 
 - Replaces hardcoded data with real data fetched from the Fake Store API.
@@ -9,6 +7,7 @@
   - Product List Screen:
 
   - Displays a list of products with title, description, price, and image.
+  - Add a product
 
   - Product Details Screen:
 
