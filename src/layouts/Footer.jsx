@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="border-t fixed bottom-0 left-0 w-full p-2 bg-white">
       <span className="text-sm font-medium text-[#43474E">
         {" "}
-        {year} Placeholder org
+        {year} Resto org
       </span>
     </div>
   );
