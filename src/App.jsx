@@ -1,4 +1,4 @@
-import Home from "./components/Home";
+import Home from "./pages/Home";
 import Footer from "./layouts/Footer";
 import Header from "./layouts/Header";
 import Favorites from "./components/Favorites";
